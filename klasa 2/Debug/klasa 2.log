@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\administrator\documents\visual studio 2015\projects\klasa 2\klasa 2\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\administrator\documents\visual studio 2015\projects\klasa 2\klasa 2\source.cpp(1666): warning C4101: 'cyfPESELU': unreferenced local variable
+c:\users\administrator\documents\visual studio 2015\projects\klasa 2\klasa 2\source.cpp(2245): warning C4930: 'KartaBiblioteczna karta(int,int,std::string)': prototyped function not called (was a variable definition intended?)
+c:\users\administrator\documents\visual studio 2015\projects\klasa 2\klasa 2\source.cpp(81): warning C4715: 'filtrDoCalkowitych': not all control paths return a value
+  klasa 2.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\klasa 2\Debug\klasa 2.exe
